@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2>Skills</h2>
+  <h1>Skills</h1>
   <div align="center">
     <div>
     <h3>Front</h3>
@@ -40,7 +40,7 @@
     <div>
       <h3>Blog</h3>
       <!--[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tmddus3002)](https://github.com/loosie/github-readme-tistory-card)-->
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+      <a href="https://tmddus3002.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
     </div>
   </div>
 </div>
