@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SeungYeon%20Kim&fontSize=70&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F899C,100:AFB5C1&height=150&section=header&text=SeungYeon%20Kim&fontSize=70&fontColor=FFFFFF" />
 </div>
 
 <div>
@@ -56,13 +56,18 @@
 <div>
   <h1>Project</h1>
   <div align="center">
-    <h3>토이 프로젝트</h3>
+    <div>
+      <h3>토이 프로젝트</h3>
       SpringBoot_JPA_Board: <a href="https://github.com/Kimseungyeon98/SpringBoot_JPA_Board">링크</a><br>
       SpringBoot_JPA_Shop: <a href="https://github.com/Kimseungyeon98/SpringBoot_JPA_Shop">링크</a><br>
       SpringBoot_MyBatis: <a href="https://github.com/Kimseungyeon98/Spring_Mybatis">링크</a><br>
+    </div>
+    <div>
+      <h3>팀 프로젝트</h3>
+    </div>
   </div>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F899C,100:AFB5C1&height=150&section=footer" />
 </div>
