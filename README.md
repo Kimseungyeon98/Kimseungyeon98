@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungYeon%20Kim&fontSize=70&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SeungYeon%20Kim&fontSize=70&fontColor=FFFFFF" />
 </div>
 
 <div>
@@ -46,6 +46,14 @@
 </div>
 
 <div>
+  <h1>Backjoon</h1>
+  <div align="center">
+    <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddus3037)](https://solved.ac/tmddus3037)-->
+    <a href="https://solved.ac/tmddus3037"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddus3037"></a>
+  </div>
+</div>
+
+<div>
   <h1>Project</h1>
   <div align="center">
     <h3>토이 프로젝트</h3>
@@ -55,14 +63,6 @@
   </div>
 </div>
 
-<div>
-  <h1>Backjoon</h1>
-  <div align="center">
-    <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddus3037)](https://solved.ac/tmddus3037)-->
-    <a href="https://solved.ac/tmddus3037"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddus3037"></a>
-  </div>
-</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Thank%20You%20For%20Watching!&fontSize=70&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 </div>
