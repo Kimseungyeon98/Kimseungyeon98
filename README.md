@@ -68,6 +68,13 @@
   </div>
 </div>
 
+<div>
+  <h1>Commit Graph</h1>
+  <div align="center">
+    <img src="https://ghchart.rshah.org/999999/Kimseungyeon98" />
+  </div>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F899C,100:AFB5C1&height=150&section=footer" />
 </div>
