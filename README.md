@@ -71,6 +71,19 @@
       <a href="https://github.com/Kimseungyeon98/carcarocean">자세한 내용</a>
     </div>
   </div>
+  <div>
+      <img src="https://github.com/Kimseungyeon98/carcarocean/assets/121033246/633fd00d-148a-4142-a897-b7c0bc45d57b" width="100px" height="100px">
+      <h3>프로젝트 이름</h3>
+      <p>MediChat(메디챗)</p>
+      <h3>프로젝트 소개</h3>
+      <p>
+        환자와 의료 전문가 간에 원활한 비대면 의료 서비스를 제공하는 웹사이트.
+        환자들이 병원 외부에서도, 의료 관련 서비스를 안전하고 효율적으로 받을 수 있도록 설계하였으며, 편리하고 신뢰할 수 있는 빈대면 진료 경험을 제공한다.
+      </p>
+      <h3>프로젝트 기간</h3>
+      <p>2024.07.01 ~ 2024.07.31</p>
+      <a href="https://github.com/Kimseungyeon98/medichat">자세한 내용</a>
+    </div>
 </div>
 
 <div>
