@@ -70,8 +70,9 @@
       <p>2024.05.13 ~ 2024.06.13</p>
       <a href="https://github.com/Kimseungyeon98/carcarocean">자세한 내용</a>
     </div>
+    <hr width="90%">
     <div>
-      <img src="https://github.com/Kimseungyeon98/MediChat/blob/main/MediChat/src/main/resources/static/images/logo.png?raw=true" width="100px" height="100px">
+      <img src="https://github.com/Kimseungyeon98/MediChat/blob/main/MediChat/src/main/resources/static/images/logo.png?raw=true" width="220px" height="70px">
       <h3>프로젝트 이름</h3>
       <p>MediChat(메디챗)</p>
       <h3>프로젝트 소개</h3>
