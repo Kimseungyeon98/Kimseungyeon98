@@ -56,9 +56,10 @@
   <h1>Project</h1>
   <div align="center">
     <div>
-      <img src="https://github.com/Kimseungyeon98/carcarocean/assets/121033246/633fd00d-148a-4142-a897-b7c0bc45d57b" width="100px" height="100px">
       <h3>프로젝트 이름</h3>
-      <p>CarCarOcean(카카오션)</p>
+      <div>
+        <img src="https://github.com/Kimseungyeon98/carcarocean/assets/121033246/633fd00d-148a-4142-a897-b7c0bc45d57b" width="100px" height="100px" alt="CarCarOcean(카카오션)">
+      </div>
       <h3>프로젝트 소개</h3>
       <p>
         자신이 타던  차를  빠르고 합리적인 가격에  팔  수  있으며, 반대로  사회초년생들을  위한  중고차  구매를 검수자들이  검토  후  판매하는  중고차  거래  사이트입니다.
@@ -71,9 +72,10 @@
     </div>
     <hr width="90%">
     <div>
-      <img src="https://github.com/Kimseungyeon98/MediChat/blob/main/MediChat/src/main/resources/static/images/logo.png?raw=true" width="220px" height="70px">
       <h3>프로젝트 이름</h3>
-      <p>MediChat(메디챗)</p>
+      <div>
+        <img src="https://github.com/Kimseungyeon98/MediChat/blob/main/MediChat/src/main/resources/static/images/logo.png?raw=true" width="220px" height="70px" alt="MediChat(메디챗)">
+      </div>
       <h3>프로젝트 소개</h3>
       <p>
         환자와 의료 전문가 간에 원활한 비대면 의료 서비스를 제공하는 웹사이트.
