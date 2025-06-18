@@ -28,12 +28,6 @@
       <img src="https://img.shields.io/badge/Tibero-5D87BF?style=for-the-badge&logo=tumblr&logoColor=white">
     </div>
     <div>
-      <h3>IDE</h3>
-        <img src="https://img.shields.io/badge/Intellij Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse%20IDE&logoColor=white">
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=v&logoColor=white">
-    </div>
-    <div>
       <h3>Blog</h3>
       <!--[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tmddus3002)](https://github.com/loosie/github-readme-tistory-card)-->
       <a href="https://tmddus3002.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
